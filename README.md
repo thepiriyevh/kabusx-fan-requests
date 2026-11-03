@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="kabusx-fan-requests/public/banner.jpg" alt="KABUS X" width="100%" />
-
 <br/><br/>
 
 <img src="kabusx-fan-requests/public/profile.jpg" alt="KABUS X" width="120" style="border-radius:50%" />
