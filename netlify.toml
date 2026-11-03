@@ -1,0 +1,3 @@
+[build]
+  base = "kabusx-fan-requests"
+  command = "npm run build"
