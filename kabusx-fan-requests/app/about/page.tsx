@@ -1,1 +1,0 @@
-export default function P(){return(<div className="mx-auto max-w-6xl px-5 py-14 prose-az"><h1 className="font-display font-bold text-3xl mb-6">Haqqımızda</h1><p>KABUS X musiqi ifaçısıdır. Bu platforma dinləyicilərin hansı mahnılar üçün Lyrics Video istədiyini toplamaq məqsədilə yaradılıb.</p><p>Bu sayt YouTube ilə rəsmi tərəfdaşlıq iddiasında deyil.</p></div>);}
